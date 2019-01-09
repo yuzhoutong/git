@@ -1,8 +1,5 @@
 nihoahohaoh  第一次提交
-<<<<<<< HEAD
 decdec
-=======
 oooooooooo
->>>>>>> dev1
 lllll
 lllll
